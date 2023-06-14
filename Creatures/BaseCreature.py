@@ -1,6 +1,6 @@
 class BaseCreature:
     def __init__(self) -> None:
-        self.heatpoints
+        self.hitpoints
         self.name
         self.atack
 
